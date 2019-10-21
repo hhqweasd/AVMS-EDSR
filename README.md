@@ -4,7 +4,7 @@ Code for Spatial Support CNN.(Coming soon...)
 
 # SSCNN
 
-Caffe implementation of SSCNN in [An Automatic Visual Monitoring System for Expansion Displacement of Switch Rail](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8758204).
+Caffe implementation of SSCNN in [An Automatic Visual Monitoring System for Expansion Displacement of Switch Rail (AVMS-EDSR)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8758204).
 
 @article{yin2019automatic,
   title={An Automatic Visual Monitoring System for Expansion Displacement of Switch Rail},
